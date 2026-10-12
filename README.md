@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Твой личный загруженный баннер -->
-  <img src="f6b3d392438f7df217035821150117b6.jpg" alt="Creation of Adam Banner" width="100%" />
+  <img src="3b7471e32825ba70ebb1c39bda7329f3.jpg" alt="Creation of Adam Banner" width="100%" />
 </p>
 
 ## 🧑‍🚀 About Me
