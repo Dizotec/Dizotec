@@ -3,7 +3,7 @@
   <img src="3b7471e32825ba70ebb1c39bda7329f3.jpg" alt="Creation of Adam Banner" width="100%" />
 </p>
 
-## 🧑‍🚀 About Me
+##  About Me
 
 ```json
 {
@@ -20,7 +20,7 @@
   ],
   "tech_stack": {
     "languages": ["C/C++", "Python"],
-    "ml_libraries": ["NumPy", "Pandas", "Scikit-Learn", "PyTorch"]
+    "ml_libraries": ["NumPy", "Scikit-Learn", "PyTorch"]
   }
 }
 ```
@@ -31,9 +31,9 @@
 
 ## 🔗 Connect With Me
 
-* 🌐 **ВКонтакте:** <a href="https://vk.com" target="_blank">://vk.com</a>
-* 📱 **Telegram:** <a href="https://t.me" target="_blank">@dizotec</a>
-* ✉️ **Почта Mail.ru:** <a href="mailto:dizotec@mail.ru">dizotec@mail.ru</a>
+* 🌐 **ВКонтакте:** <a href="[https://vk.com](https://vk.ru/afs_ai13)" target="_blank">://vk.com</a>
+* 📱 **Telegram:** <a href="https://t.me/dizilnyiotec" target="_blank">@dizotec</a>
+* ✉️ **Почта Mail.ru:** <a href="rqwzxn@mail.ru">dizotec@mail.ru</a>
 
 ---
 
