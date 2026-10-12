@@ -1,13 +1,12 @@
 <p align="center">
-  <!-- Верхний пиксельный баннер -->
-  <img src="https://githubusercontent.com" onerror="this.src='https://postimg.cc'" alt="Creation of Adam Banner" width="100%" />
+  <!-- Твой личный загруженный баннер -->
+  <img src="f6b3d392438f7df217035821150117b6.jpg" alt="Creation of Adam Banner" width="100%" />
 </p>
 
 ## 👤 About Me
 
-<!-- Космонавт, который будет отображаться сбоку (справа от JSON текста) -->
-<img src="https://tenor.com" align="right" width="160" style="margin-left: 20px; margin-bottom: 20px;" alt="Astronaut" />
-
+<!-- Космонавт сбоку -->
+<img src="https://giphy.com" align="right" width="150" style="margin-left: 20px; margin-bottom: 20px;" alt="Astronaut" />
 
 ```json
 {
@@ -20,13 +19,11 @@
   ],
   "learning": [
     "Machine Learning & Deep Learning (ML/DL)",
-    "Архитектура нейронных сетей",
-    
+    "Архитектура нейронных сетей"
   ],
   "tech_stack": {
     "languages": ["C/C++", "Python"],
-    "ml_libraries": ["NumPy", "Pandas", "Scikit-Learn", "PyTorch"],
-    
+    "ml_libraries": ["NumPy", "Pandas", "Scikit-Learn", "PyTorch"]
   }
 }
 ```
@@ -38,14 +35,17 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://vk.ru/afs_ai13" target="_blank">
+  <!-- Твой ВК -->
+  <a href="https://vk.com" target="_blank">
     <img src="https://shields.io" alt="VK" />
   </a>
-  <a href="https://t.me/dizilnyiotec" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
+  <!-- Твоя почта -->
+  <a href="mailto:dizotec@mail.ru">
+    <img src="https://shields.io" alt="Mail.ru" />
   </a>
-  <a href="rqwzxn@mail.ru">
-    <img src="https://shields.io" alt="Mail" />
+  <!-- Твой Телеграм -->
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io" alt="Telegram" />
   </a>
 </p>
 
@@ -63,21 +63,15 @@
   <img src="https://skillicons.dev" alt="My Tools" />
 </p>
 
-
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Карточка общей статистики Dizotec -->
   <img width="48%" src="https://vercel.app" alt="Статистика" />
-  
-  <!-- Карточка самых используемых языков Dizotec -->
   <img width="48%" src="https://vercel.app" alt="Языки" />
 </p>
 
 <p align="center">
-  <!-- График непрерывной активности (Streak) -->
   <img width="100%" src="https://herokuapp.com" alt="Стрик коммитов" />
 </p>
-
