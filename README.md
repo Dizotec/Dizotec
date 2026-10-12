@@ -5,7 +5,7 @@
 
 ## 👤 About Me
 
-<!-- Космонавт сбоку -->
+<!-- Стабильный космонавт -->
 <img src="https://giphy.com" align="right" width="150" style="margin-left: 20px; margin-bottom: 20px;" alt="Astronaut" />
 
 ```json
@@ -55,12 +55,19 @@
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev" alt="My Skills" />
+  <img src="https://githubusercontent.com" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="React" width="40" height="40"/>
 </p>
 
 ### 🧰 Tools & Databases
 <p align="left">
-  <img src="https://skillicons.dev" alt="My Tools" />
+  <img src="https://githubusercontent.com" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Docker" width="40" height="40"/>
 </p>
 
 ---
@@ -68,10 +75,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://vercel.app" alt="Статистика" />
-  <img width="48%" src="https://vercel.app" alt="Языки" />
+  <img width="48%" src="https://githubusercontent.com" alt="Статистика" data-canonical-src="https://vercel.app" />
+  <img width="48%" src="https://githubusercontent.com" alt="Языки" data-canonical-src="https://vercel.app" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://herokuapp.com" alt="Стрик коммитов" />
+  <img width="100%" src="https://githubusercontent.com" alt="Стрик коммитов" data-canonical-src="https://herokuapp.com" />
 </p>
