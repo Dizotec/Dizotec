@@ -31,7 +31,7 @@
 
 ## 🔗 Connect With Me
 
-* 🌐 **ВКонтакте:** <a href="[https://vk.com](https://vk.ru/afs_ai13)" target="_blank">://vk.com</a>
+* 🌐 **ВКонтакте:** <a href="https://vk.ru/afs_ai13" target="_blank">://vk.com</a>
 * 📱 **Telegram:** <a href="https://t.me/dizilnyiotec" target="_blank">@dizotec</a>
 * ✉️ **Почта Mail.ru:** <a href="rqwzxn@mail.ru">dizotec@mail.ru</a>
 
