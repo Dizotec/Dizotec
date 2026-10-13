@@ -2,7 +2,9 @@
   <!-- Твой личный загруженный баннер -->
   <img src="3b7471e32825ba70ebb1c39bda7329f3.jpg" alt="Creation of Adam Banner" width="100%" />
 </p>
-## 👤  About Me
+## 👤 About Me
+
+<img src="avatar.jpg" align="left" width="280" style="margin-right: 25px; margin-bottom: 10px; border-radius: 4px;" alt="Astronaut" />
 
 ```json
 {
