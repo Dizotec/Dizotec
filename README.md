@@ -4,7 +4,6 @@
 </p>
 ## 👤 About Me
 
-<img src="avatar.jpg" align="left" width="280" style="margin-right: 25px; margin-bottom: 10px; border-radius: 4px;" alt="Astronaut" />
 
 ```json
 {
