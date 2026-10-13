@@ -43,6 +43,6 @@
   `C/C++` &nbsp;&bull;&nbsp; `Python` &nbsp;&bull;
 
 * 🧰 **Tools & Databases:**
-  `Git` &nbsp;&bull;&nbsp; `VS Code` &nbsp;&bull;  &nbsp;&bull;&nbsp; `Docker`
+  `Git` &nbsp;&bull;&nbsp; `VS Code` &nbsp;&bull;&bull;&nbsp; `Docker`
 
 
