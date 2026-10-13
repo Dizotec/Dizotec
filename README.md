@@ -5,7 +5,7 @@
 ## 👤 About Me
 
 <!-- Твой космонавт загружается локально и встает ровно слева -->
-<img src="загрузка.jpg" align="right" height="350" style="margin-right: 25px; margin-bottom: 10px; border-radius: 4px;" alt="Astronaut" />
+<img src="загрузка.jpg" align="right" height="450" style="margin-right: 25px; margin-bottom: 10px; border-radius: 4px;" alt="Astronaut" />
 
 ```json
 {
