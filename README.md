@@ -2,8 +2,10 @@
   <!-- Твой личный загруженный баннер -->
   <img src="3b7471e32825ba70ebb1c39bda7329f3.jpg" alt="Creation of Adam Banner" width="100%" />
 </p>
-<!-- Вшитый монохромный космонавт (работает автономно без скачивания файлов) -->
-<img src="загрузка.jpg' width='160' height='315' viewBox='0 0 160 315' style='background:%230d1117;border-radius:4px;'><style>.p{fill:%238b949e;}.w{fill:%23ffffff;}</style><rect width='160' height='315' fill='%230d1117'/><path class='p' d='M40,90 h80 v10 h-80 z M30,100 h100 v10 h-100 z M20,110 h120 v80 h-120 z M30,190 h100 v10 h-100 z M40,200 h80 v10 h-80 z'/><path class='w' d='M45,120 h70 v50 h-70 z'/><path class='p' d='M55,130 h50 v30 h-50 z'/><circle cx='80' cy='150' r='5' class='w'/><path class='w' d='M40,220 h25 v40 h-25 z M95,220 h25 v40 h-25 z M45,260 h20 v30 h-20 z M95,260 h20 v30 h-20 z'/></svg>" align="left" height="315" style="margin-right: 25px; margin-bottom: 10px;" alt="Astronaut" />
+## 👤 About Me
+
+<!-- Твой космонавт загружается локально и встает ровно слева -->
+<img src="загрузка.jpg" align="left" height="315" style="margin-right: 25px; margin-bottom: 10px; border-radius: 4px;" alt="Astronaut" />
 
 ```json
 {
