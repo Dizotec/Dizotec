@@ -40,9 +40,9 @@
 ## 🛠️ Tech Stack
 
 * 💻 **Languages & Frameworks:**
-  `C/C++` &nbsp;&bull;&nbsp; `Python` &nbsp;&bull;&nbsp; `JavaScript` &nbsp;&bull;&nbsp; `React`
+  `C/C++` &nbsp;&bull;&nbsp; `Python` &nbsp;&bull;&nbsp; &nbsp;&bull;&nbsp;
 
 * 🧰 **Tools & Databases:**
-  `Git` &nbsp;&bull;&nbsp; `VS Code` &nbsp;&bull;&nbsp; `PostgreSQL` &nbsp;&bull;&nbsp; `MongoDB` &nbsp;&bull;&nbsp; `Docker`
+  `Git` &nbsp;&bull;&nbsp; `VS Code` &nbsp;&bull;&nbsp;  &nbsp;&bull;&nbsp; `Docker`
 
 
