@@ -39,10 +39,10 @@
 
 ## 🛠️ Tech Stack
 
-* 💻 **Languages & Frameworks:**
-  `C/C++` &nbsp;&bull;&nbsp; `Python` &nbsp;&bull;
+* 💻 **Languages & Frameworks:**  
+  `C/C++` &bull; `Python`
 
-* 🧰 **Tools & Databases:**
-  `Git` &nbsp;&bull;&nbsp; `VS Code` &nbsp;&nbsp; `Docker`
+* 🧰 **Tools & Databases:**  
+  `Git` &bull; `VS Code` &bull; `Docker`
 
 
