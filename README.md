@@ -2,7 +2,7 @@
   <!-- Твой личный загруженный баннер -->
   <img src="3b7471e32825ba70ebb1c39bda7329f3.jpg" alt="Creation of Adam Banner" width="100%" />
 </p>
-## 👤 About Me
+About Me
 
 
 
