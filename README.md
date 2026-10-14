@@ -36,10 +36,11 @@
 * ✉️ **Почта Mail.ru:** <a href="mailto:rqwzxn@mail.ru">rqwzxn@mail.ru</a>
 
 ---
+## 🛠 Tech Stack
+
 <table>
 <tr>
-<td valign="top">
-## 🛠️ Tech Stack
+<td valign="top" width="45%">
 
 * 💻 **Languages & Frameworks:**  
   `C/C++` &bull; `Python`
@@ -54,9 +55,11 @@
   `Git` &bull; `VS Code` &bull; `Docker`
 
 </td>
-<td valign="top" align="right">
-<img src="https://streak-stats.demolab.com/?user=Dizotec&theme=dark" width="30%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&theme=dark&hide_border=true" width="30%" />
+<td valign="top" width="55%" align="right">
+
+<img src="https://streak-stats.demolab.com/?user=Dizotec&theme=dark&hide_border=true" width="100%" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&theme=dark&hide_border=true&langs_count=6" width="100%" />
 
 </td>
 </tr>
