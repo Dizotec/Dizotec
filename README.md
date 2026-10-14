@@ -48,12 +48,6 @@
 * 🧰 **Tools & Databases:**  
   `Git` &bull; `VS Code` &bull; `Docker`
 
-* 💻 **Languages & Frameworks:**  
-  `C/C++` &bull; `Python`
-
-* 🧰 **Tools & Databases:**  
-  `Git` &bull; `VS Code` &bull; `Docker`
-
 </td>
 <td valign="top" width="55%" align="right">
 
