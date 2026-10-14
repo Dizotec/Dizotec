@@ -40,7 +40,7 @@
 
 <table>
 <tr>
-<td valign="top" width="45%">
+<td valign="top" width="40%">
 
 * 💻 **Languages & Frameworks:**  
   `C/C++` &bull; `Python`
@@ -49,8 +49,15 @@
   `Git` &bull; `VS Code` &bull; `Docker`
 
 </td>
-<td valign="top" width="55%" align="right">
+<td valign="top" width="60%">
 
+<img src="https://streak-stats.demolab.com/?user=Dizotec&background=282a36&border=44475a&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff79c6&sideLabels=bd93f9&dates=6272a4" width="100%" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&hide_border=true&langs_count=6" width="100%" />
+
+</td>
+</tr>
+</table>
 <img src="https://streak-stats.demolab.com/?user=Dizotec&theme=dark&hide_border=true" width="100%" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&theme=dark&hide_border=true&langs_count=6" width="100%" />
