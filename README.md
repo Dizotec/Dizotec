@@ -36,7 +36,9 @@
 * ✉️ **Почта Mail.ru:** <a href="mailto:rqwzxn@mail.ru">rqwzxn@mail.ru</a>
 
 ---
-
+<table>
+<tr>
+<td valign="top">
 ## 🛠️ Tech Stack
 
 * 💻 **Languages & Frameworks:**  
@@ -50,7 +52,12 @@
 
 * 🧰 **Tools & Databases:**  
   `Git` &bull; `VS Code` &bull; `Docker`
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dizotec&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
+
+</td>
+<td valign="top" align="right">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&theme=dracula&hide_border=true" width="320" />
+
+</td>
+</tr>
+</table>
