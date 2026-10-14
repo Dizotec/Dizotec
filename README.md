@@ -55,8 +55,8 @@
 
 </td>
 <td valign="top" align="right">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&theme=dark&hide_border=true" width="600" />
+<img src="https://streak-stats.demolab.com/?user=Dizotec&theme=dark" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&theme=dark&hide_border=true" width="30%" />
 
 </td>
 </tr>
