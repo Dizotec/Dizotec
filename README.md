@@ -51,16 +51,9 @@
 </td>
 <td valign="top" width="60%">
 
-<img src="https://streak-stats.demolab.com/?user=Dizotec&background=282a36&border=44475a&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff79c6&sideLabels=bd93f9&dates=6272a4" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Dizotec&background=161b22&border=30363d&stroke=58a6ff&ring=bc8cff&fire=bc8cff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=bc8cff&sideLabels=58a6ff&dates=8b949e" width="100%" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&hide_border=true&langs_count=6" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&bg_color=161b22&title_color=bc8cff&text_color=c9d1d9&hide_border=false&border_color=30363d&langs_count=6" width="100%" />
 
 </td>
 </tr>
