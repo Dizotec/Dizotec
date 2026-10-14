@@ -50,5 +50,7 @@
 
 * 🧰 **Tools & Databases:**  
   `Git` &bull; `VS Code` &bull; `Docker`
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dizotec&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=compact&theme=radical&hide_border=true" width="45%" />
+</p>
