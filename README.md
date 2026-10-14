@@ -58,9 +58,9 @@
 </td>
 </tr>
 </table>
-<img src="https://streak-stats.demolab.com/?user=Dizotec&theme=dark&hide_border=true" width="100%" />
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&theme=dark&hide_border=true&langs_count=6" width="100%" />
+
 
 </td>
 </tr>
