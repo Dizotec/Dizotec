@@ -38,7 +38,7 @@
 ---
 ## 🛠 Tech Stack
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="40%">
 
@@ -51,9 +51,9 @@
 </td>
 <td valign="top" width="60%">
 
-<img src="https://streak-stats.demolab.com/?user=Dizotec&background=161b22&border=30363d&stroke=58a6ff&ring=bc8cff&fire=bc8cff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=bc8cff&sideLabels=58a6ff&dates=8b949e" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Dizotec&background=0d1117&border=21262d&stroke=7ee787&ring=3fb950&fire=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=7ee787&sideLabels=3fb950&dates=8b949e" width="100%" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&bg_color=161b22&title_color=bc8cff&text_color=c9d1d9&hide_border=false&border_color=30363d&langs_count=6" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizotec&layout=donut&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&hide_border=false&border_color=21262d&langs_count=6" width="100%" />
 
 </td>
 </tr>
