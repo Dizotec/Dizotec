@@ -29,7 +29,7 @@
 
 ---
 <img src="https://streak-stats.demolab.com/?user=Dizotec&background=0d1117&border=21262d&stroke=7ee787&ring=3fb950&fire=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=7ee787&sideLabels=3fb950&dates=8b949e" width="100%" />
----
+
 ## 🔗 Connect With Me
 
 * 🌐 **ВКонтакте:** <a href="https://vk.ru" target="_blank">://vk.com</a>
