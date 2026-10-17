@@ -28,7 +28,7 @@
 > *"Простота — залог надежности." — Эдсгер В. Дейкстра*
 
 ---
-<img src="https://streak-stats.demolab.com/?user=Dizotec&background=0d1117&border=21262d&stroke=7ee787&ring=3fb950&fire=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=7ee787&sideLabels=3fb950&dates=8b949e" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Dizotec&background=0d1117&border=ffff&stroke=ffff&ring=ffff&fire=7ee787&currStreakNum=ffff&sideNums=ffff&currStreakLabel=ffff&sideLabels=ffff&dates=8b949e" width="100%" />
 
 ## 🔗 Connect With Me
 
